@@ -11,7 +11,7 @@ Don't trust us. Run the software and verify for yourself
 Follow us on NOSTR: npub1pegapre6vcqs22a9ccrq730gmutz2ee40ytwslt7lna8w0uw4cjsumgv6t
 
 
-Donate sats to support protocol development (research, propagation)
+Donate sats to help us develop and propagate the protocol
 
 Lightning Address: redseahorse5@primal.net
 
