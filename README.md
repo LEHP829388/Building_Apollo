@@ -6,7 +6,7 @@ Peer validated software for human hardware
 
 Whitepaper in progress - v1.0 published on block 840,000
 
-Don't trust us. Run the software and verify for yourself
+Peer validated software. Don't trust us. Run the software and verify for yourself
 
 Follow us on NOSTR: npub1pegapre6vcqs22a9ccrq730gmutz2ee40ytwslt7lna8w0uw4cjsumgv6t
 
