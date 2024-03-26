@@ -2,7 +2,7 @@
 
 Foot Health Protocol
 
-Peer validated software for human hardware
+Peer validated foot health software for human hardware
 
 Whitepaper in progress - v1.0 published on block 840,000
 
