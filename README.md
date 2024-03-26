@@ -1,6 +1,8 @@
 # v_1.0
 
-Foot Health Protocol
+Free Open Source Foot Health Software
+
+A proof of work protocol for restoring strong, mobile, resilient, painfree feet (aka healthy feet)
 
 Peer validated foot health software for human hardware
 
