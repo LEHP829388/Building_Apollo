@@ -1,4 +1,4 @@
-# Apollo software v1.0
+# Apollo Health Protocol
 
 Apollo is Free Open Source Health Software for Human Hardware
 
