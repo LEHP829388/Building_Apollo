@@ -1,6 +1,6 @@
 # Apollo
 
-This Free Open Source Health Software for Human Hardware
+Free Open Source Health Software for Human Hardware
 
 Apollo is a proof of work protocol for restoring healthy feet - strong, mobile, resilient, painfree feet
 
