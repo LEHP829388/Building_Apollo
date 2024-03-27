@@ -1,12 +1,14 @@
-# Apollo Health Protocol
+# Apollo
 
-Apollo is Free Open Source Health Software for Human Hardware
+This Free Open Source Health Software for Human Hardware
+
+Apollo is a proof of work protocol for restoring healthy feet - strong, mobile, resilient, painfree feet
+
+Peer validated software. Don't trust us. Run the software and verify for yourself
 
 Whitepaper in progress - published on block 840,000 at www.RunningApollo.com
 
-A proof of work protocol for restoring healthy feet - strong, mobile, resilient, painfree feet
 
-Peer validated software. Don't trust us. Run the software and verify for yourself
 
 
 Follow us on NOSTR: npub1pegapre6vcqs22a9ccrq730gmutz2ee40ytwslt7lna8w0uw4cjsumgv6t
