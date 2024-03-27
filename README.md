@@ -1,12 +1,10 @@
-# v_1.0
+# Apollo software v1.0
 
-Free Open Source Foot Health Software
-
-A proof of work protocol for restoring strong, mobile, resilient, painfree feet (aka healthy feet)
-
-Peer validated foot health software for human hardware
+Apollo is Free Open Source Health Software for Human Hardware
 
 Whitepaper in progress - v1.0 published on block 840,000
+
+A proof of work protocol for restoring strong, mobile, resilient, painfree feet (aka healthy feet)
 
 Peer validated software. Don't trust us. Run the software and verify for yourself
 
