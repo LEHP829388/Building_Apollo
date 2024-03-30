@@ -6,7 +6,7 @@ Apollo is a proof of work protocol for restoring healthy feet - strong, mobile, 
 
 Peer validated software. Don't trust us. Run the software and verify for yourself
 
-Whitepaper in progress - published on block 840,000 at www.RunningApollo.com
+Whitepaper in progress - published here on block 840,000
 
 3 core elements:
 - Low time preference
