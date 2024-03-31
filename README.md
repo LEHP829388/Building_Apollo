@@ -11,7 +11,7 @@ Whitepaper in progress - published here on block 840,000
 3 core elements:
 - Adopt a low time preference
 - Eliminate footwear that damages your feet
-- Show up for a daily upgrade session (starting with 10min) that incorporates foot reconditioning, balance training, squat restoration and time on the ground
+- Commit to a daily session that incorporates foot reconditioning, balance training, squat restoration and time on the ground
 
 Join us on NOSTR: https://primal.net/p/npub1pegapre6vcqs22a9ccrq730gmutz2ee40ytwslt7lna8w0uw4cjsumgv6t
 
