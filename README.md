@@ -8,10 +8,10 @@ Peer validated software. Don't trust us. Run the software and verify for yoursel
 
 Whitepaper in progress - published here on block 840,000
 
-3 core elements:
+3 principles:
 - Adopt a low time preference
-- Eliminate footwear that damages your feet
-- Commit to a daily session that incorporates foot reconditioning, balance training, squat restoration and time on the ground
+- Reduce unnatural inputs (footwear,chairs)
+- Add natural inputs (walking,squat, ground)
 
 Join us on NOSTR: https://primal.net/p/npub1pegapre6vcqs22a9ccrq730gmutz2ee40ytwslt7lna8w0uw4cjsumgv6t
 
