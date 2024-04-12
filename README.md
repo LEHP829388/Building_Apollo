@@ -2,15 +2,16 @@
 
 Free Open Source Health Software for Human Hardware
 
-Apollo is a proof of work protocol for restoring a strong, mobile, resilient, painfree lower body
+Proof of work health protocol to restore a strong, mobile, resilient, painfree lower body
 
 Peer validated software. Don't trust us. Run the software and verify for yourself
 
 Whitepaper in progress - published here on block 840,000
 
-3 principles:
-- Adopt a low time preference
-- Reduce unnatural inputs (unnatural footwear,chairs)
+Fundamental principles:
+
+- Low time preference
+- Reduce unnatural inputs (unnatural footwear, chairs)
 - Add natural inputs (walking, squat, ground)
 
 Join us on NOSTR: https://primal.net/p/npub1pegapre6vcqs22a9ccrq730gmutz2ee40ytwslt7lna8w0uw4cjsumgv6t
