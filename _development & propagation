@@ -1,17 +1,22 @@
-Development protocol:
+Protocol development:
 
-- Inbound proposals triaged by developer
-- Proposals added to monthly council meeting 
-- Council meetings recorded and made public as a V4V podcast
+- Inbound proposals received by admin, categorized, reviewed on weekly developer call
+- Vetted proposals and critiques discussed on monthly council meeting which is recorded and made public as a V4V podcast
+- Primitives created for specific applications based on questions received
+- Case stories of successful application added to github repo and made available from an intuitive website database
 
+
+Consulting:
+- developers work with individuals, companies, institutions and networks to design effective and scalable application of the protocol
+- professional athletes and sports organizations
 
 
 Propagation:
 
 Verb: to spread and promote an idea widely
 
-- Zaps over NOSTR
+- Zaps over NOSTR with message "www.RunningApollo.com
 - Social media content promoted by donors & individuals/businesses applying the protocol
-- Speaking engagements
+- Developer speaking engagements
 - Private education sessions
 - Conference booths
