@@ -6,7 +6,7 @@ Proof of work health protocol to restore a strong, mobile, resilient, painfree l
 
 Peer validated software. Don't trust us. Run the software and verify for yourself
 
-Whitepaper in progress - published here on block 840,000
+v.97 of Whitepaper published to www.RunningApollo.com on block 840,000
 
 Fundamental principles:
 
