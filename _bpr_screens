@@ -26,7 +26,7 @@ Prompt:
 - Cross your legs, slowly lower down to the floor and rise again to standing without using your hands
 
 How is the screen scored?
-- Binary: YES (can complete without pain) or NO (cannot complete or can complete but with pain)
+- Binary: PASS (can complete without pain) or FAIL (cannot complete or can complete but with pain)
 
 What data can be gathered from the screen?
 - visual observation for toe alignment, deformities, arch control
@@ -39,25 +39,38 @@ What recommendations can be made from screen results?
 
 ---> Single leg balance
 
-Prompt:
+Why is this screen useful? Indicator of lower extremity, proprioception, risk of injury 
+
+How is the screen conducted?
+
+Prompt: 
 - Stand barefoot on one leg on firm, flat ground
-- Maintain balance with eyes open for 60 seconds
+- Maintain balance with eyes open (eyes closed for athletes who pass eyes open) for 60 seconds
+- Done bilaterally
+- Average of 3 trials can be recorded if time permits
+- If you make an error, resume the single leg position again until the full 60 seconds has elapsed
+
+* If not confident, conduct the screen close to something the person can hold onto for support if they lose balance
+
+How is the screen scored?
+- Binary: PASS (able to balance for 60 seconds without errors), or FAIL (unable to balance for 60 seconds without errors) 
+- Error: hopping, holding onto something, placing other foot down on the ground
+
+*If an error is made, resume balancing again until the full 60 seconds has elapsed
+*If unable to complete, count the number of errors made in 60 seconds and track progress over time
 
 Standard: 60 seconds without making an error (hopping, holding onto something, placing other foot down)
 
 Athlete standard: 60 seconds with eyes closed (opening eyes is an error)
 
-If unable to complete, count the number of errors made in 60 seconds and track progress over time
+What data can be gathered from the screen?
+- Visual observation of overall stability
+- Breathing pattern (relaxed vs stressed)
+- Observation of muscles being stressed (toe extensors, peroneals, toe flexors)
 
+What recommendations can be made from screen results?
+- The inability to complete the screen is an indicator of deficient stability which should be trained and devloped daily until the standard is met
 
-Extras:
-- If not confident, do this close to something the person can hold onto for support if they lose balance
-- If you make an error (open eyes, place other foot on the ground, grab onto something with hand), simply regroup and begin again
-- Observer: count the amount of errors made in 60 seconds for each side. Do 3 attempts and use average score
-
-Qualitative elements: How stable is the person?, what muscles are visibly being stressed (toe extensors, peroneals, toe flexors), how is their breathing (relaxed vs stressed)
-
-Quantitative score: How many error did the person make?
 
 
 ---> Resting squat position 
