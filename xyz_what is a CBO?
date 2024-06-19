@@ -23,3 +23,10 @@ Bitcoin strategy considerations:
 - Balance sheet strategy as a treasury asset
 - Custody framework (create a report outlining tradeoffs and choose optimal strategy with key decision makers)
 - PL strategy to accept sats as a method of payment (work through legal, finance implications)
+
+Best Practices:
+- Self custody
+- Never disclose how many sats are in our treasury
+- Never disclose our key management strategy or keyholder identities
+- Use FOSS signing devices
+- Keep private keys offline
