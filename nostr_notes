@@ -1,6 +1,7 @@
 Blockstamped notes from nostr
 
-[835,709]
+[-------]
+[835,709] Toucan
 Hello NOSTR 👋🏽
 
 We’re building a free & open source foot health protocol so everyone can restore healthy, strong, painfree feet
@@ -14,7 +15,8 @@ Landing page and Whitepaper go live on block 840,000
 Your body is your node. Run better software and you will achieve better health
 
 
-[-------]
+
+[-------] Toucan
 [unknown]
 Our mission: develop a simple foot health protocol that can be applied by individuals to effectively restore healthy feet
 Why?
@@ -28,7 +30,8 @@ Because people deserve truthful information that empowers them to take better ca
 Because 95% of shod people are literally wearing shoes that disable, damage and deform their feet 
 
 
-[-------]
+
+[-------] Toucan
 [unknown]
 We develop Health Software for human hardware
 
@@ -46,7 +49,8 @@ Core elements:
 
 Simple 
 
-[-------]
+
+[-------] Toucan
 [unknown]
 The core problems we’re solving:
 
@@ -61,4 +65,39 @@ This protocol can also be adopted by professionals who want to do better for the
 The protocol doesn’t include anything novel or groundbreaking. 
 
 It’s effectiveness comes from helping people focus on core behaviours that matter most and trimming all the fiat disease care noise
+
+
+
+[-------] Toucan
+[835815]
+Peer review: #Bitcoin style
+
+Peer review in fiat academia is mostly bullshit. We’re doing it Bitcoin style by tracking down proof of work authorities (not proof of degree authorities) to review our code and validate it
+
+We’re currently building a list of the top 50 foot health authorities in the world to review and validate our code (aka to read, understand, align with and endorse our protocol)
+
+We pay them sats for their time and input
+
+We plan to eventually gather a council of developers each month on a podcast to discuss and scrutinize the protocol 
+
+
+[-------] Macaw
+[835834]
+
+Applications of the protocol will vary widely and can be very complex but the protocol itself is incredibly simple
+
+The protocol is behavioural software designed for human hardware. It only works when individuals apply it in their lives
+
+It must be energized by our time and attention
+
+3 core elements:
+
+1) Adopt a low time preference
+2) Stop wearing unnatural shoes
+3) Spend at least 10 minutes a day recalibrating your lower body
+
+The protocol is grounded in biological axioms
+
+It’s value doesn’t come what it includes, but in all the noise that is excludes so that people can focus their energy on the things that matter most
+
 
